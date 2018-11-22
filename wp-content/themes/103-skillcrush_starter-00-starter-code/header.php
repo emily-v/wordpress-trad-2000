@@ -30,6 +30,7 @@
 
 			<nav class="top-nav">
 				<?php wp_nav_menu(array('theme_location' => 'primary-menu')); ?>
+				<p>test</p>
 			</nav>
 		</header>
 
